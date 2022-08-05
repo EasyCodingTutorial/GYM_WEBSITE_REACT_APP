@@ -1,0 +1,15 @@
+.custom {
+  margin-bottom: 200px;
+}
+.custom .row {
+  margin: 15px auto;
+}
+.custom img {
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.custom img:hover {
+  border-top-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+}

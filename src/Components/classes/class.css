@@ -1,0 +1,20 @@
+.classes {
+  margin-bottom: 200px;
+}
+.classes .row {
+  margin: 10px auto;
+}
+.classes .box img {
+  border-bottom: 2px solid #fff;
+}
+.classes .box {
+  background: #000;
+  overflow: hidden;
+}
+.classes .boxContent {
+  padding: 20px;
+  color: #fff;
+}
+.classes .boxContent h6 {
+  color: var(--main);
+}

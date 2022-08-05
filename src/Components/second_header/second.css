@@ -1,0 +1,24 @@
+.second_header {
+  position: relative;
+  margin-bottom: 200px;
+}
+.second_header img {
+  height: 60vh;
+  width: 100%;
+  object-fit: cover;
+}
+.SecondHeaderContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+}
+.SecondHeaderContent h6 {
+  font-size: 50px;
+  font-weight: 600;
+}
+.SecondHeaderContent p {
+  font-size: 13px;
+}

@@ -1,0 +1,17 @@
+.team {
+  margin-bottom: 200px;
+}
+.team .box {
+  overflow: hidden;
+}
+.team img {
+  cursor: pointer;
+  border-top-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+  height: 450px !important;
+  object-fit: cover;
+  width: 100% !important;
+}
+.team .box:hover img {
+  transform: scale(1.1);
+}

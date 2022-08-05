@@ -1,0 +1,24 @@
+.pricing {
+  margin-bottom: 200px;
+}
+.pricing .box {
+  box-shadow: 10px 10px 10px -10px rgba(0, 0, 0, 0.4),
+    inset 10px 10px 10px -10px rgba(0, 0, 0, 0.9);
+  padding: 20px;
+  text-align: center;
+}
+.pricing .box h6 {
+  font-size: 20px;
+}
+.pricing .box h5 {
+  font-size: 150px;
+  margin: 20px auto;
+}
+.pricing .box:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.pricing .row .active {
+  transform: scale(1.1);
+  margin-top: 50px;
+}
